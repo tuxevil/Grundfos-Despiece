@@ -1,0 +1,224 @@
+<Configuration>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <ReFormatCode>
+    <ReorderMembers>True</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>True</RemoveRedundantThis>
+    <ShortenReferences>True</ShortenReferences>
+  </ReFormatCode>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <EditorManager>
+    <RecentFiles>
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:styles_grundfos.css" caret="1445" scrollPosition="0|37" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:login.aspx" caret="0" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:login.aspx.cs" caret="451" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:Site1.Master" caret="3436" scrollPosition="0|36" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:interno/f:Calculo2.aspx.cs" caret="670" scrollPosition="28|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:interno/f:Calculo.aspx.cs" caret="319" scrollPosition="0|15" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:Default.aspx" caret="0" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:interno/f:Reporte.aspx.cs" caret="4116" scrollPosition="0|93" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:interno/f:administration.aspx" caret="424" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:Web.config" caret="4868" scrollPosition="0|40" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:Global.asax.cs" caret="450" scrollPosition="0|0" />
+      <File id="ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8/f:Service1.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8/f:Service1.cs" caret="0" scrollPosition="0|156" />
+      <File id="ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8/f:App.config" caret="539" scrollPosition="2|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:interno/f:administration.aspx.cs" caret="2048" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/f:FtpWatcher.cs" caret="1202" scrollPosition="0|18" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:users/f:newuser.aspx" caret="0" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:users/f:newuser.aspx.cs" caret="626" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:despiece/f:Default.aspx" caret="0" scrollPosition="0|0" />
+      <File id="55D5594D-4B26-4BED-AD13-B4C522CFAC53/d:despiece/f:Default.aspx.cs" caret="16183" scrollPosition="0|315" />
+    </RecentFiles>
+  </EditorManager>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System">
+      <Item value="Web" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="IO" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data">
+      <Item value="SqlClient" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="CommandText" priority="0" />
+      <Item value="ExecuteReader" priority="1" />
+      <Item value="Parameters" priority="1" />
+      <Item value="CommandType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read" priority="8" />
+      <Item value="GetInt32" priority="0" />
+      <Item value="Close" priority="7" />
+      <Item value="HasRows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataAdapter">
+      <Item value="Fill" priority="4" />
+      <Item value="SelectCommand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="51" />
+      <Item value="WriteXml" priority="1" />
+      <Item value="ReadXml" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="21" />
+      <Item value="Columns" priority="12" />
+      <Item value="Select" priority="0" />
+      <Item value="NewRow" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open" priority="2" />
+      <Item value="Close" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="2" />
+      <Item value="Add" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="ItemArray" priority="31" />
+      <Item value="Table" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:object">
+      <Item value="ToString" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataMember" priority="4" />
+      <Item value="DataSource" priority="1" />
+      <Item value="DataBind" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime.Today">
+      <Item value="AddDays" priority="5" />
+      <Item value="ToShortDateString" priority="0" />
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddDays" priority="11" />
+      <Item value="Date" priority="1" />
+      <Item value="ToShortDateString" priority="3" />
+      <Item value="ToString" priority="1" />
+      <Item value="ToLongDateString" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="Subtract" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTableCollection">
+      <Item value="Add" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="26" />
+      <Item value="Focus" priority="0" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:object[]">
+      <Item value="SetValue" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Add" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="Table" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:int">
+      <Item value="ToString" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="Items" priority="1" />
+      <Item value="SelectedValue" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.EventArgs">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListBox">
+      <Item value="Visible" priority="1" />
+      <Item value="SelectedItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Visible" priority="8" />
+      <Item value="TemplateControl" priority="1" />
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItem">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="Visible" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO">
+      <Item value="File" priority="1" />
+      <Item value="StringWriter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="CreateText" priority="0" />
+      <Item value="OpenWrite" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string">
+      <Item value="Trim" priority="1" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ToString" priority="0" />
+      <Item value="ConnectionString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string[]">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.WizardNavigationEventArgs">
+      <Item value="CurrentStepIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RadioButtonList">
+      <Item value="SelectedValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MultiView">
+      <Item value="SetActiveView" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Login">
+      <Item value="LayoutTemplate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="AuthenticationType" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CreateUserWizard">
+      <Item value="UserName" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

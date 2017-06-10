@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grundfos-Despiece", "Grundfos-Despiece\Grundfos-Despiece.csproj", "{55D5594D-4B26-4BED-AD13-B4C522CFAC53}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorXML", "GeneradorXML\GeneradorXML.csproj", "{ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ServicioActualizador", "ServicioActualizador\ServicioActualizador.vdproj", "{6AFEAE3E-D01E-4AA1-BC13-0048F3E93EBA}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GeneradorXML\\GeneradorXML.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = GeneradorXML\\
+		SccProjectUniqueName2 = Grundfos-Despiece\\Grundfos-Despiece.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Grundfos-Despiece\\
+		SccProjectUniqueName3 = ServicioActualizador\\ServicioActualizador.vdproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = ServicioActualizador\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D5594D-4B26-4BED-AD13-B4C522CFAC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D5594D-4B26-4BED-AD13-B4C522CFAC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D5594D-4B26-4BED-AD13-B4C522CFAC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D5594D-4B26-4BED-AD13-B4C522CFAC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACABEA6E-B4A1-45C9-B33F-FA2E45C13AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFEAE3E-D01E-4AA1-BC13-0048F3E93EBA}.Debug|Any CPU.ActiveCfg = Debug
+		{6AFEAE3E-D01E-4AA1-BC13-0048F3E93EBA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
